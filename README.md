@@ -25,7 +25,7 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="32" src="https://img.icons8.com/nolan/64/unity.png" alt="unity"></code>
+<code><img height="32" title="Unity3d" src="https://img.icons8.com/nolan/64/unity.png" alt="unity"></code>
 </div>
 
 ### Projects and Dev Stuffs:
