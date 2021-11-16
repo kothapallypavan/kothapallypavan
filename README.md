@@ -30,7 +30,7 @@
 ### Projects and Dev Stuffs:
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>Github Stats ⚡</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kothapallypavan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -38,7 +38,7 @@
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b>Github Streaks ☄️</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kothapallypavan&hide_border=true" />
