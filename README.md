@@ -1,13 +1,19 @@
 
-  <h1 align="center">Hey 👋, I'm Pavan kothapally!</h1>
+<h1 align="center">Hey 👋, I'm Pavan kothapally!</h1>
 
 <p align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
+   <a href="https://www.linkedin.com/in/pavan-kothapally-230986208/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="midudev" height="28px" width="28px" />
+  </a>
+  <a href="https://instagram.com/pavan.kothapally" target="blank">
+    <img align="center" src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="midu.dev" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/PavanKothapally" target="blank">
+    <img align="center" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" alt="midudev" height="28px" width="28px" />
+  </a>
 </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinnupavan&label=Profile%20views&color=0e75b6&style=flat" alt="pavan" /> </p>
 
 
