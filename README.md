@@ -32,9 +32,9 @@
 <br>
 <h3 align="center">Web development:</h3>
 <div align="center">
-<code><img height="32" title="html" src="https://img.icons8.com/nolan/64/html.png" alt="HTML"></code>	
+<code><img height="32" title="HTML" src="https://img.icons8.com/nolan/64/html.png" alt="HTML"></code>	
 <code><img height="27" title="CSS"  src="https://img.icons8.com/nolan/64/css-filetype.png" alt="CSS"></code>
-<code><img height="32" title="Unity3d" src="https://img.icons8.com/nolan/64/php.png" alt="unity"></code>
+<code><img height="32" title="PHP" src="https://img.icons8.com/nolan/64/php.png" alt="PHP"></code>
 </div>
 
 ### Projects and Dev Stuffs:
