@@ -1,6 +1,9 @@
 
-<h1 align="center">Hey 👋, I'm Pavan kothapally!</h1>
-
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey!+I'm+Pavan+Kothapally" alt="Typing SVG">
+    </a>
+</div>
 <p align="center">
    <a href="https://www.linkedin.com/in/pavan-kothapally-230986208/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="midudev" height="28px" width="28px" />
