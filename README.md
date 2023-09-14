@@ -8,12 +8,6 @@
    <a href="https://www.linkedin.com/in/pavan-kothapally-230986208/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="midudev" height="28px" width="28px" />
   </a>
-  <a href="https://instagram.com/pavan.kothapally" target="blank">
-    <img align="center" src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="midu.dev" height="28px" width="28px" />
-  </a>
-  <a href="https://twitter.com/PavanKothapally" target="blank">
-    <img align="center" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" alt="midudev" height="28px" width="28px" />
-  </a>
 </p>
 
 
