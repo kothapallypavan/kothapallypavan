@@ -17,12 +17,11 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
+<code><img height="32" title="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
 <code align="center"><img height="27" title="C/C++"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27"  title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" title="SQL"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27"  title="MongoDB" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="32" title="Unity3d" src="https://img.icons8.com/nolan/64/unity.png" alt="unity"></code>
-<code><img height="32" title="java" src="https://img.icons8.com/nolan/64/java.png" alt="unity"></code>
 <code><img height="32" title="reactjs" src="https://img.icons8.com/officexs/344/react.png" alt="unity"></code>	
 	
 </div>
