@@ -5,7 +5,7 @@
     </a>
 </div>
 <p align="center">
-   <a href="https://www.linkedin.com/in/pavan-kothapally-230986208/" target="blank" style='margin-right:4px'>
+   <a href="https://www.linkedin.com/in/pavankothapally" target="blank" style='margin-right:4px'>
     <img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="midudev" height="28px" width="28px" />
   </a>
 </p>
